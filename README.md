@@ -37,8 +37,7 @@ The app consists of two main components:
 
 ## License 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-
+ [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0) - see the [LICENSE](LICENSE) file for details.
 
 
   ## Screenshot of APPLOGO
