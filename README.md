@@ -37,7 +37,7 @@ The app consists of two main components:
 
 ## License 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[
+
 
 
 
