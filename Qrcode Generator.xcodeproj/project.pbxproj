@@ -16,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0D49330A2B65825A00C9B53E /* istockphoto-518484289-170667a.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = "istockphoto-518484289-170667a.webp"; sourceTree = "<group>"; };
 		0DC7437C2B61905300CD648D /* Qrcode Generator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Qrcode Generator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0DC7437F2B61905300CD648D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0DC743812B61905300CD648D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +64,7 @@
 				0DC743882B61905400CD648D /* Assets.xcassets */,
 				0DC7438A2B61905400CD648D /* LaunchScreen.storyboard */,
 				0DC7438D2B61905400CD648D /* Info.plist */,
+				0D49330A2B65825A00C9B53E /* istockphoto-518484289-170667a.webp */,
 			);
 			path = "Qrcode Generator";
 			sourceTree = "<group>";
