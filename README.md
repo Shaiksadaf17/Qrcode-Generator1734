@@ -34,6 +34,13 @@ The app consists of two main components:
 
 - If you encounter any issues or have suggestions for improvement.
 
+
+## License 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[
+
+
+
   ## Screenshot of APPLOGO
   ![qR code generetor](https://github.com/Shaiksadaf17/Qrcode-Generator1734/assets/121873557/59979497-37b2-426f-9dfd-71369b74d2d6)
 
